@@ -133,6 +133,7 @@ public class NewJFrame extends javax.swing.JFrame {
         // TODO add your handling code here:
         jButton2.setText("Upload");
         //something
+        //modify
     }//GEN-LAST:event_jButton2ActionPerformed
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
